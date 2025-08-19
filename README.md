@@ -1,14 +1,19 @@
-# Projeto-Cruzeiro-do-Sul
-Projeto para Iniciar novamente no GitHub
+# Projeto-Calculadora-Financeira
+Projeto para Iniciar Uma Calculadora Financeira para a prova do CEA
 # 👋 Olá, eu sou o Breno Viana de Oliveira Lima, mas podem me chamar de BrenoIO!
 
 Sou estudante apaixonado por tecnologia, sempre buscando aprender e evoluir no mundo de desenvolvimento de software. Meu foco atual está em **C#** e **.NET**, explorando as infinitas possibilidades dessas ferramentas para criar soluções inovadoras.
 
 ---
+Especificações Técnicas Obrigatórias 
+
+Desenvolver uma aplicação simples que permita ao usuário registrar seus investimentos e visualizar o lucro ou prejuizo do investimento. Esse foi meu primeiro projeto utilizando c#, focado em aplicar conceitos fundamentais de front-end e principalmente back-end.
+
 
 ## 🛠️ Tecnologias usadas
 - **C#**
 - **.NET**
+- **HTML**
 
 ---
 
@@ -25,8 +30,4 @@ Estou dando meus primeiros passos no universo da programação e acredito que a 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Breno%20Oliveira-blue?logo=linkedin)](https://www.linkedin.com/in/breno-oliveira-917066252/)
 
----
-
-<!--
-Se quiser adicionar projetos, portfólio ou outras redes sociais no futuro, é só me avisar!
--->
+>
